@@ -1,4 +1,7 @@
-	/* Author: Dominic Kelly */
+	/* 
+		Author: Dominic Kelly
+		Review Date: 19/05/2025
+	*/
 	/* Start of Global Modifications */
 	.block-wrapper {
 		background-color: transparent !important;
@@ -191,6 +194,9 @@
 		background-size: cover !important;
 	}
 	[data-block-id="clecs78c8005h35714f90yki1"] {
+		background-color: #176f70 !important;
+	}
+	[data-block-id="cm8sw3b4q018f3576uxs7x9ek"] {
 		background-color: #176f70 !important;
 	}
 	[data-block-id="cliboqoaz008x3b6pi5pi6fwh"] {
